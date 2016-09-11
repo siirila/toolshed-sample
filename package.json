@@ -1,0 +1,15 @@
+{
+  "name": "toolshed-sample",
+  "version": "0.0.1",
+  "description": "A sample project for the toolshed presentation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "frontend",
+    "tools"
+  ],
+  "author": "Jared Siirila",
+  "license": "MIT"
+}
