@@ -12,7 +12,10 @@
   ],
   "author": "Jared Siirila",
   "license": "MIT",
-  "devDependencies": {},
+  "devDependencies": {
+    "css-loader": "^0.25.0",
+    "style-loader": "^0.13.1"
+  },
   "dependencies": {
     "jquery": "^3.1.0"
   }

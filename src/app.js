@@ -1,5 +1,8 @@
 var $ = require('jquery');
 
+// Webpack magic
+require('../css/app.css');
+
 var categories = [
     'hats',
     'space',
