@@ -12,7 +12,6 @@
   ],
   "author": "Jared Siirila",
   "license": "MIT",
-  "devDependencies": {
-    "eslint": "^3.5.0"
-  }
+  "devDependencies": {},
+  "dependencies": {}
 }
