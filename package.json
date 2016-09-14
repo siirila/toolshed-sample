@@ -13,5 +13,7 @@
   "author": "Jared Siirila",
   "license": "MIT",
   "devDependencies": {},
-  "dependencies": {}
+  "dependencies": {
+    "jquery": "^3.1.0"
+  }
 }
